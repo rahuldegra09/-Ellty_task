@@ -17,8 +17,7 @@ const NewPage = () => {
     };
 
     return (
-        <div className="min-h-screen bg-gray-300 p-8">
-            <h1 className="text-4xl font-bold mb-4">Welcome to the New Page</h1>
+        <div className="min-h-screen bg-gray-300 p-2 ">
             <div className="grid grid-cols-[2fr,0fr,3fr,4fr] gap-4">
 
                 {/* First Section: 3 Yellow Buttons */}
